@@ -3,3 +3,12 @@ fastapi
 uvicorn
 python-multipart
 pydantic
+qdrant-client
+requests
+numpy
+pandas
+openai
+langchain
+sentence-transformers
+transformers
+torch
