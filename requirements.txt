@@ -1,15 +1,7 @@
-# Core FastAPI
 fastapi==0.104.1
-uvicorn==0.24.0
+uvicorn[standard]==0.24.0
 python-multipart==0.0.6
 pydantic==2.5.0
-
-# Basic Python
-requests==2.31.0
-python-dotenv==1.0.0
-numpy==1.24.3
-
-# Lightweight PDF
-PyPDF2==3.0.1
-Pillow==10.1.0
-
+pydantic-core==2.14.0
+--prefer-binary
+PyMuPDF==1.23.8
