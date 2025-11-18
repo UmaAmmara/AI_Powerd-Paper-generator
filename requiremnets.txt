@@ -33,6 +33,7 @@ aiofiles==23.2.1
 python-magic==0.4.27
 pathlib==1.0.1
 shutilwhich==1.1.0
+requests==2.31.0
 
 # Development & Testing
 pytest==7.4.3
